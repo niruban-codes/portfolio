@@ -42,7 +42,7 @@ const Footer = () => {
                         First Name
                       </label>
                       <Input 
-                        placeholder="John"
+                        placeholder="First Name"
                         className="bg-primary-foreground/10 border-primary-foreground/30 text-primary-foreground placeholder:text-primary-foreground/60"
                       />
                     </div>
@@ -51,7 +51,7 @@ const Footer = () => {
                         Last Name
                       </label>
                       <Input 
-                        placeholder="Doe"
+                        placeholder="Last Name"
                         className="bg-primary-foreground/10 border-primary-foreground/30 text-primary-foreground placeholder:text-primary-foreground/60"
                       />
                     </div>
@@ -63,7 +63,7 @@ const Footer = () => {
                     </label>
                     <Input 
                       type="email"
-                      placeholder="john@example.com"
+                      placeholder="niru@example.com"
                       className="bg-primary-foreground/10 border-primary-foreground/30 text-primary-foreground placeholder:text-primary-foreground/60"
                     />
                   </div>
@@ -95,7 +95,7 @@ const Footer = () => {
               <div className="space-y-4">
                 <div className="flex items-center gap-3">
                   <Mail className="h-5 w-5 text-accent" />
-                  <span>alex.johnson@email.com</span>
+                  <span>nirubannallirajah@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-5 h-5 flex items-center justify-center">
@@ -123,7 +123,7 @@ const Footer = () => {
             
             <div className="pt-8 border-t border-primary-foreground/20">
               <p className="text-primary-foreground/60 text-sm">
-                © 2024 Alex Johnson. All rights reserved.
+                © 2024 Nallirajah Niruban. All rights reserved.
               </p>
             </div>
           </div>

@@ -17,9 +17,9 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-accent rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">AJ</span>
+              <span className="text-white font-bold text-sm">NN</span>
             </div>
-            <span className="font-bold text-xl">Alex Johnson</span>
+            <span className="font-bold text-xl">Nallirajah Niruban</span>
           </div>
           
           {/* Desktop Navigation */}

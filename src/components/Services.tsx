@@ -5,21 +5,21 @@ import { Palette, Monitor, TrendingUp, ArrowRight } from "lucide-react";
 const services = [
   {
     icon: Palette,
-    title: "UI-UX CREATIVE DESIGN",
-    description: "Crafting intuitive and engaging user interfaces that balance aesthetics with functionality for optimal user experience.",
-    features: ["User Research", "Wireframing", "Prototyping", "Visual Design"]
+    title: "CONTENT CREATION & PHOTOGRAPHY",
+    description: "Creating authentic content and visuals that connect with people and strengthen brand presence across platforms.",
+    features: ["Social Media Content", "Video Editing & Storytelling", "Photography & Visuals", "Creative Campaigns"]
   },
   {
     icon: Monitor,
-    title: "VISUAL GRAPHIC DESIGN",
-    description: "Creating compelling visual identities and marketing materials that communicate your brand story effectively.",
-    features: ["Brand Identity", "Marketing Materials", "Illustrations", "Print Design"]
+    title: "TECH & DIGITAL SOLUTIONS",
+    description: "Blending business and technology to design solutions that solve real world problems.",
+    features: ["Website Concepts & Prototyping", "System Analysis & Documentation", "Digital Workflows & Productivity Tools", "Educational Platforms"]
   },
   {
     icon: TrendingUp,
-    title: "STRATEGY & DIGITAL MARKETING",
-    description: "Developing comprehensive digital strategies that drive growth and engagement across all platforms.",
-    features: ["Market Analysis", "Growth Strategy", "Content Planning", "Performance Tracking"]
+    title: "COACHING & EDUCATION",
+    description: "Guiding students and individuals toward growth through both learning and lifestyle. I focus on building knowledge, discipline, and confidence in academics and fitness.",
+    features: ["Fitness Training & Workout Routines", "Motivation, Discipline & Habit Building", "Individual & Group Lessons", "Balance between Fitness, Studies & Career"]
   }
 ];
 

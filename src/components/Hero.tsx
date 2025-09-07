@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="space-y-4">
             <div className="inline-flex items-center gap-2 text-sm text-muted-foreground bg-secondary/50 px-4 py-2 rounded-full">
               <span className="w-2 h-2 bg-accent rounded-full animate-pulse"></span>
-              Available for new projects
+              Open to collaborations & opportunities
             </div>
             
             <div className="space-y-2">
@@ -22,30 +22,30 @@ const Hero = () => {
               <div className="flex items-center gap-3">
                 <div className="h-px bg-gradient-accent flex-1 max-w-20"></div>
                 <h2 className="text-2xl lg:text-3xl font-semibold text-accent">
-                  Product Designer
+                  IS Undergraduate | Entrepreneurial Thinker 
                 </h2>
               </div>
             </div>
           </div>
           
           <p className="text-lg text-muted-foreground leading-relaxed max-w-lg">
-            I'm a UK-based design thinker, product designer, and creative strategist. 
-            I specialize in creating authentic, user-centered experiences that solve real problems.
+            I’m a Sri Lanka based undergraduate in Information Systems with experience in the
+             banking industry and a passion for technology, entrepreneurship, and content creation. I focus on building meaningful ideas, inspiring people through 
+             fitness and creativity, and shaping solutions that bring real impact.
           </p>
           
           <div className="space-y-4">
             <ul className="space-y-3 text-muted-foreground">
               <li className="flex items-center gap-3">
                 <div className="w-1.5 h-1.5 bg-accent rounded-full"></div>
-                Product must be authentic & user-centered
+Driven to bridge technology with real world needs              </li>
+              <li className="flex items-center gap-3">
+                <div className="w-1.5 h-1.5 bg-accent rounded-full"></div>
+                Skilled in content creation, leadership, and teamwork
               </li>
               <li className="flex items-center gap-3">
                 <div className="w-1.5 h-1.5 bg-accent rounded-full"></div>
-                Solve pain points elegantly & efficiently
-              </li>
-              <li className="flex items-center gap-3">
-                <div className="w-1.5 h-1.5 bg-accent rounded-full"></div>
-                User testing, feedback, and validation
+                Focused on entrepreneurship & impactful solutions
               </li>
             </ul>
           </div>
