@@ -17,7 +17,7 @@ const Hero = () => {
             <div className="space-y-2">
               <p className="text-xl text-muted-foreground font-medium">Hello! I'm</p>
               <h1 className="text-5xl lg:text-6xl font-bold tracking-tight">
-                Alex Johnson
+                Nallirajah Niruban
               </h1>
               <div className="flex items-center gap-3">
                 <div className="h-px bg-gradient-accent flex-1 max-w-20"></div>
@@ -69,7 +69,7 @@ const Hero = () => {
             <div className="relative bg-gradient-card rounded-2xl p-6 shadow-card group-hover:shadow-hover transition-all duration-500">
               <img
                 src={heroImage}
-                alt="Alex Johnson - Product Designer"
+                alt="Nallirajah Niruban - Product Designer"
                 className="w-full h-auto rounded-xl object-cover"
               />
               <div className="absolute -bottom-4 -right-4 bg-primary text-primary-foreground p-4 rounded-full shadow-accent">

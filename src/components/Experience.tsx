@@ -3,25 +3,25 @@ import { Badge } from "@/components/ui/badge";
 
 const experiences = [
   {
-    role: "Senior UI Designer",
-    company: "Uber Hub - Bangladesh",
+    role: "Customer Service Executive",
+    company: "Amana Bank PLC",
     duration: "1 YEAR",
-    period: "2022 - Present",
+    period: "2023 - 2024",
     type: "FULL TIME"
   },
   {
-    role: "Product Design",
-    company: "Zoom3x Digital Agency - Italy",
-    duration: "2 YEARS",
-    period: "2020 - 2022",
+    role: "Telemarketing Executive",
+    company: "Revocare Solutions",
+    duration: "5 Months",
+    period: "2024 Jan - 2024 May",
     type: "FULL TIME"
   },
   {
-    role: "Webflow Team Manager",
-    company: "Google Team - UK",
-    duration: "2 YEARS",
-    period: "2018 - 2020",
-    type: "FULL TIME"
+    role: "Co-Founder",
+    company: "Foxla Productions",
+    duration: "Present",
+    period: "2024 - Present",
+    type: "SELF EMPLOYED"
   }
 ];
 
