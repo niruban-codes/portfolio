@@ -70,7 +70,7 @@ const Experience = () => {
           </div>
           
           {/* Case Study Section */}
-          <div>
+          {/* <div>
             <div className="mb-12">
               <h2 className="text-4xl lg:text-5xl font-bold mb-6">
                 CASE STUDY
@@ -136,7 +136,7 @@ const Experience = () => {
                 </CardContent>
               </Card>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
